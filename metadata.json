@@ -1,0 +1,7 @@
+{
+  "name": "DET Prep Master",
+  "description": "A specialized Duolingo English Test preparation app designed for a 2-week intensive review, featuring vocabulary drills, exam simulations, and dysorthography support.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
